@@ -1,15 +1,15 @@
 [//]: # (Header)
 <div>
     <h1 align="center">
-        $\color{rgb(191,18,79)}{\textsf{Welcome to my}}$
-        $\color{rgb(220, 35, 83)}{\textsf{Github Profile}}$
+        $\color{rgb(76, 76, 76)}{\textsf{Welcome to my}}$
+        $\color{rgb(39, 39, 39)}{\textsf{Github Profile}}$
         <img alt="hey" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/main/assets/common/hey.gif" width="25px"> 
     </h1>
     <br>
     <img width="100%" src="assets/common/anime_blood_hd_70.gif" alt="home gif"/>
     <h2 align="center"> 
-        $\color{rgb(184,17,78)}{\textsf{I'm Web Developer from}}$
-        $\color{rgb(220, 35, 83)}{\textsf{Moscow}}$
+        $\color{rgb(76, 76, 76)}{\textsf{I'm Developer from}}$
+        $\color{rgb(39, 39, 39)}{\textsf{---}}$
     </h2>
 
 </div>

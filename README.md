@@ -2,14 +2,14 @@
 <div>
     <h1 align="center">
         $\color{rgb(76, 76, 76)}{\textsf{Welcome to my}}$
-        $\color{rgb(39, 39, 39)}{\textsf{Github Profile}}$
+        $\color{rgb(85, 85, 85)}{\textsf{Github Profile}}$
         <img alt="hey" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/main/assets/common/hey.gif" width="25px"> 
     </h1>
     <br>
     <img width="100%" src="assets/common/anime_blood_hd_70.gif" alt="home gif"/>
     <h2 align="center"> 
         $\color{rgb(76, 76, 76)}{\textsf{I'm Developer from}}$
-        $\color{rgb(39, 39, 39)}{\textsf{---}}$
+        $\color{rgb(85, 85, 85)}{\textsf{---}}$
     </h2>
 
 </div>

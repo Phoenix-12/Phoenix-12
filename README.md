@@ -5,12 +5,13 @@
         $\color{rgb(85, 85, 85)}{\textsf{profile}}$
         <img alt="hey" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/main/assets/common/hey.gif?raw=true" width="25px"> 
     </h1>
+    <h2 align="center"> 
+        $\color{rgb(76, 76, 76)}{\textsf{I'm Ivan, Unity Developer from }}$
+        $\color{rgb(85, 85, 85)}{\textsf{Volgograd}}$
+    </h2>
     <br>
         <img  width="100%" height="30%" src="https://i.ytimg.com/vi/_ITiwPMUzho/maxresdefault.jpg" alt="home gif"/>
-    <h2 align="center"> 
-        $\color{rgb(76, 76, 76)}{\textsf{I'm Ivan, Unity Developer from Volgograd}}$
-        $\color{rgb(85, 85, 85)}{\textsf{---}}$
-    </h2>
+   
 
 </div>
 
